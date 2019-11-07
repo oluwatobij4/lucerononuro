@@ -1,10 +1,2 @@
-# lucerononuro
-first Repository
-hello humans, so as an aspiring data scientist
-here i am
-yeah?
-yeah
-okay 
-that's it.
-cut.
-i'm out.
+AN aspiring Data Scientist, interested in reading the mind of the world populace using data, particularly interested in socio-economic issues and finance. 
+
